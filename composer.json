@@ -1,0 +1,16 @@
+{
+  "name": "vendor_name/test_work-5",
+  "description": "Test task for work5 company",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Morsweb",
+      "email": "morsan20@bk.ru"
+    }
+  ],
+  "require": {
+    "ext-pdo": "*",
+    "ext-json": "*"
+  }
+}
